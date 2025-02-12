@@ -31,4 +31,9 @@ _6.)_ Grouping Constants
 		port = 8080
 	)
 
-_7.)_ 
+_7.)_ for loop is the only loop in go
+_8.)_ **Break** : It is used to stop the execution of the loop at a specific condition.	
+      **Continue** : It is used to skip a particular iteration of the loop.
+
+_9.)_ Range keyword : Range keyword is used to run a loop for a particular range
+     
