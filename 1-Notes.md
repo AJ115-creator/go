@@ -36,4 +36,7 @@ _8.)_ **Break** : It is used to stop the execution of the loop at a specific con
       **Continue** : It is used to skip a particular iteration of the loop.
 
 _9.)_ Range keyword : Range keyword is used to run a loop for a particular range
-     
+
+_10.)_ GO does not have ternary operator
+
+_11.)_ 
